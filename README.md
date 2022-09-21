@@ -1,4 +1,4 @@
-<h1>Atividade solicitada pelo professor Gabriel no Instituto Proa</h1>
+<h1>Atividade de lógica solicitada pelo professor Gabriel no Instituto Proa</h1>
 <h3>Enunciado:</h3>
 <p>  Agora é hora de pensar!
 Com o projeto do caixa eletrônico, encontramos algumas questões que são muito importantes, mas não foram aplicadas. Vamos aplicá-las uma a uma. 
